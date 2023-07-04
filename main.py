@@ -17,6 +17,7 @@ headers = {
 }
 exercise_input = input("What exercise have you done? \n")
 
+
 exercise = {
     "query": exercise_input
 }
